@@ -62,18 +62,6 @@ XGBoost Regressor was selected as the final model after hyperparameter tuning vi
 
 ---
 
-## Project Structure
-
-```
-├── data_YesBank_StockPrices.csv       # Raw dataset
-├── YesBank_StockPrice_Prediction.ipynb  # Full analysis notebook
-├── yes_bank_xgb_model.pkl             # Saved XGBoost model
-├── yes_bank_scaler.pkl                # Saved StandardScaler
-└── README.md
-```
-
----
-
 ## Requirements
 
 ```bash
